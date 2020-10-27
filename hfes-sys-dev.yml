@@ -1,4 +1,3 @@
 test:
   name: "88999"
-datasource:
   passwords: '{cipher}ef1fd883b1f34c273823f4e2ec11276b3ec7140b4e215769b79bf893a685de02'
