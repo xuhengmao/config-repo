@@ -1,6 +1,4 @@
 test:
   name: "88999"
-  password: '{cipher}94c1027141add9844ec47f0be13caebb6b38ed1dcf99811b1a5cd2b874c64407'
-  
 datasource:
   password: '{cipher}ef1fd883b1f34c273823f4e2ec11276b3ec7140b4e215769b79bf893a685de02'
